@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(39, 54, 139);
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Crimson Pro';
+  font-size: 82px;
+  color: rgb(215, 235, 253);
+  margin-top: 100px;
+}
+
+.players {
+  display: flex;
+  justify-content: center;
+  font-family: 'Seymour One', sans-serif;
+}
+
+.player-one {
+  margin-right: 430px;
+}
+
+.images {
+  height: 230px;
+  width: 230px;
+  margin-left: -60px;
+}
